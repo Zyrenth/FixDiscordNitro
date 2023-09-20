@@ -1,10 +1,10 @@
 {
-    "name": "Template Plugin",
-    "description": "A plugin for use as a template.",
+    "name": "Fix Discord Nitro",
+    "description": "Fixes Discord's Nitro on mobile.",
     "authors": [
         {
-            "name": "You!",
-            "id": "YOUR_ID_HERE"
+            "name": "Zyrenth",
+            "id": "509018277549309962"
         }
     ],
     "main": "src/index.ts",
